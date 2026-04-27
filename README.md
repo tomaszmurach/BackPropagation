@@ -141,16 +141,8 @@ The exact values may differ depending on random initialization and training para
 
 The project includes a custom `plot_decision_regions()` function that visualizes how the trained model separates the three Iris classes based on petal length and petal width.
 
-```markdown
 images/decision_regions.png
-```
 
-To add a screenshot to GitHub:
-
-1. Create an `images` folder in the repository.
-2. Save the plot screenshot as `decision_regions.png`.
-3. Place it inside the `images` folder.
-4. Keep the Markdown path as shown above.
 
 ## Project Structure
 
