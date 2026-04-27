@@ -141,7 +141,7 @@ The exact values may differ depending on random initialization and training para
 
 The project includes a custom `plot_decision_regions()` function that visualizes how the trained model separates the three Iris classes based on petal length and petal width.
 
-images/decision_regions.png
+![Decision regions](images/decision_regions.png)
 
 
 ## Project Structure
